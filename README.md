@@ -1,8 +1,8 @@
-# aframe-vue-example
+# aframe-vue-elephant-head
 
-Created with CodeSandbox
+THe 3D head follows your mouse.
 Simple a-frame and vue.js example.
-
+Created with CodeSandbox
 ## Elephant Head!!!
 
 THe 3D head follows your mouse.

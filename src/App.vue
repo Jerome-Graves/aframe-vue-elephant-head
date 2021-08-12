@@ -16,7 +16,6 @@
           scale="0.5 0.5 0.5"
           gltf-model="https://jeromegraves.com/assets/elephant.glb"
         >
-          <a-cursor></a-cursor>
         </a-entity>
       </a-entity>
       <a-camera

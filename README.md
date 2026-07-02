@@ -1,20 +1,24 @@
 # aframe-vue-elephant-head
 
-THe 3D head follows your mouse.
-Simple a-frame and vue.js example.
-Created with CodeSandbox
-## Elephant Head!!!
+A tiny 3D web toy: an elephant head that turns to follow your mouse. Built with
+[A-Frame](https://aframe.io/) (WebVR/WebGL) and Vue.js.
 
-THe 3D head follows your mouse.
+![Elephant head following the mouse](elephant-head.gif)
 
-Assets:
-<br>
-<https://skfb.ly/QUKq>
-<br>
-Feel free to uses as you like.
+## Run
 
-# Author
+```bash
+npm install
+npm run serve     # dev server with hot reload
+npm run build     # production build to dist/
+```
 
-Jerome graves
-<br>
-<https://jeromegraves.com>
+Stack: Vue 2 + A-Frame 1.2.
+
+## Credits
+
+3D model: <https://skfb.ly/QUKq>. Free to reuse.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).

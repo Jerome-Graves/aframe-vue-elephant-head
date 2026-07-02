@@ -43,7 +43,7 @@ elasticity: 10000;
 </template>
 
 <script>
-import aframe from "aframe";
+import "aframe";
 
 var mouseX = 0;
 var mouseY = 0;

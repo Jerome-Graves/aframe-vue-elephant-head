@@ -3,6 +3,8 @@
 A tiny 3D web toy: an elephant head that turns to follow your mouse. Built with
 [A-Frame](https://aframe.io/) (WebVR/WebGL) and Vue.js.
 
+**Live demo:** <https://jeromegraves.com/aframe-vue-elephant-head/>
+
 ![Elephant head following the mouse](elephant-head.gif)
 
 ## Run
